@@ -18,8 +18,22 @@
 ### 專案安裝流程
 1. 下載專案
 ``` 
-git clone https://github.com/pierceshih15/restaurantList.git
+git clone https://github.com/LettuceLu751103/movie_list_remote.git
+```
+2. 安裝套件
 ```
 
+```
+
+3. 啟動服務器
+```
+npm run dev
+```
+
+4. 成功執行
+```
+
+
+```
 ### 專案開發人員
 Lettuce Lu
