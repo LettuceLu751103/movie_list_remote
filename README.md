@@ -36,7 +36,6 @@ npm run dev
 ```
 [nodemon] starting `node app.js`
 This is Server Running at http://localhost:3000
-
 ```
 ### 專案開發人員
 Lettuce Lu
