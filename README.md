@@ -22,7 +22,8 @@ git clone https://github.com/LettuceLu751103/movie_list_remote.git
 ```
 2. 安裝套件
 ```
-
+cd movie_list_remote.git
+npm install 
 ```
 
 3. 啟動服務器
@@ -31,8 +32,10 @@ npm run dev
 ```
 
 4. 成功執行
+當成功執行後, 終端機將會出現以下字眼...
 ```
-
+[nodemon] starting `node app.js`
+This is Server Running at http://localhost:3000
 
 ```
 ### 專案開發人員
