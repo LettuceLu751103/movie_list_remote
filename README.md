@@ -16,7 +16,8 @@
 4. Bootstrap : 4.2.1
 
 ### 專案安裝流程
-
+1. 下載專案
+``` git clone https://github.com/pierceshih15/restaurantList.git
 
 ### 專案開發人員
 Lettuce Lu
